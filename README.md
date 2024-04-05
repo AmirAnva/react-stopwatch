@@ -1,5 +1,5 @@
 Stopwatch made with novice react.js.
-Multiple Stopwatch running in separate instances.
+Multiple Stopwatch(s) running in separate instances.
 
 
 
