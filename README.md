@@ -3,4 +3,4 @@ Multiple Stopwatch(s) running in separate instances.
 
 
 
-<img src="react-stopwatch.PNG" width="128"/>
+<img src="react-stopwatch.PNG">
